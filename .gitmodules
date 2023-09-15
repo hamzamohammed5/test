@@ -1,3 +1,6 @@
 [submodule "2 ImageClassification"]
 	path = 2 ImageClassification
 	url = https://github.com/hamzamohammed5/test
+[submodule "2_ImageClassification"]
+	path = 2_ImageClassification
+	url = https://github.com/hamzamohammed5/test
